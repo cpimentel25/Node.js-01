@@ -1,0 +1,20 @@
+{
+  "name": "node.js-01",
+  "version": "1.0.0",
+  "description": "nodeJs01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpimentel25/Node.js-01.git"
+  },
+  "author": "CPimentel25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpimentel25/Node.js-01/issues"
+  },
+  "homepage": "https://github.com/cpimentel25/Node.js-01#readme",
+  "type": "module"
+}
