@@ -16,5 +16,8 @@
     "url": "https://github.com/cpimentel25/Node.js-01/issues"
   },
   "homepage": "https://github.com/cpimentel25/Node.js-01#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
 }
